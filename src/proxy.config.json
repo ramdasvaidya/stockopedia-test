@@ -1,0 +1,7 @@
+{
+    "//api/v1/*":{
+        "traget": "https://transactions-challenge.test.stockopedia.com",
+        "secure": true,
+        "logLevel": "debug"
+    }
+}

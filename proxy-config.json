@@ -1,0 +1,8 @@
+{
+  "/transactions": {
+      "target": "https://transactions-challenge.test.stockopedia.com//api/v1/",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+  }
+}
